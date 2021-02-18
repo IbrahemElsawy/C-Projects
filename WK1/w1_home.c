@@ -7,8 +7,6 @@
 
 /* Ibrahem's Workshop 1 At Lab Assignment */
 
-/* Hello, Mrs.Chi. I hope you enjoy my take on the first part of the Workshop 1 assignment.*/
-
 #include <stdio.h> // It provides the input/output facilities in the C program.
 
 int main(void) // The main () is to start the function of the program.
