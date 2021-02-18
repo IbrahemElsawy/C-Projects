@@ -5,7 +5,7 @@
 
 */
 
-/* Ibrahem's Workshop 1 At Lab Assignment */
+/* Ibrahem's Workshop 1 At Home Assignment*/
 
 #include <stdio.h> // It provides the input/output facilities in the C program.
 
@@ -13,7 +13,11 @@ int main(void) // The main () is to start the function of the program.
 
 { // This is to start the body of the program.
 
+	printf("********************************\n"); //This functiion is to print a string of 30 asterisks in order to create the top part of the, "*** Welcome to C Programming ***" box when shown in the running program.
+
 	printf("*** Welcome to C Programming ***\n"); //This function is to print a string that says, "*** Welcome to C Programming ***."
+
+	printf("********************************\n"); //This functiion is to print a string of 30 asterisks in order to create the bottom part of the, "*** Welcome to C Programming ***" box when shown in the running program. 
 
 	printf("\n"); // This is to create a new line that is blank so it is easier to see the above printed string and the below printed string.
 
